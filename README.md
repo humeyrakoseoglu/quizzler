@@ -54,7 +54,7 @@ Question(
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/71442681/186212315-2e2dca30-2322-456b-a37f-70459f9bf693.png)
-![image](https://user-images.githubusercontent.com/71442681/186212827-90460cd8-0964-418f-950b-352da716ba31.png)
+![image](https://user-images.githubusercontent.com/71442681/186213481-3a53e668-9f3f-445e-be4f-7c823c67d89a.png)
 ![image](https://user-images.githubusercontent.com/71442681/186212889-cec218b0-7974-4270-90bd-62cb661242fe.png)
-![image](https://user-images.githubusercontent.com/71442681/186213040-8e5b2a7e-2151-4b95-9c9c-bc66882f6904.png)
 ![image](https://user-images.githubusercontent.com/71442681/186213124-7da8aba9-bae9-4212-8909-81f8aaf05db9.png)
+![image](https://user-images.githubusercontent.com/71442681/186213040-8e5b2a7e-2151-4b95-9c9c-bc66882f6904.png)
